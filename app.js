@@ -1,12 +1,11 @@
 const texts = [
     "I Love You",
-    "♥️ Liêu ♥️",
-    "Tưởng Thế Liêu",
-    "Bảnh",
+    "♥️ Kiệt ♥️",
+    "Trần Lâm Tuấn Kiệt",
+    "Chúc anh 1 ngày tốt lành",
     "Saranghaeyo",
     "Wǒ ài nǐ",
-    "Ya tebya lyublyu",
-    "Je t'aime",
+    "Yeu anh vailon",
 ];
 
 let images = [
