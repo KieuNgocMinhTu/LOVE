@@ -2,9 +2,9 @@ const texts = [
     "I Love You",
     "♥️ Kiệt ♥️",
     "Trần Lâm Tuấn Kiệt",
-    "28/10/2005"
-    "Kiệt Ngu Vãi Ò"
-    "Lêu Lêuuuuu"
+    "28/10/2005",
+    "Kiệt Ngu Vãi Ò",
+    "Lêu Lêuuuuu",
 ];
 
 let images = [
